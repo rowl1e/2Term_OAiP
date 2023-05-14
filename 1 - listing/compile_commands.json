@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Visual Studio/Projects/labs/1 - listing",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Listing.dir\\main.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\1 - listing\\main.c\"",
+  "file": "D:/Visual Studio/Projects/labs/1 - listing/main.c",
+  "output": "CMakeFiles/Listing.dir/main.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/1 - listing",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Listing.dir\\get.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\1 - listing\\get.c\"",
+  "file": "D:/Visual Studio/Projects/labs/1 - listing/get.c",
+  "output": "CMakeFiles/Listing.dir/get.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/1 - listing",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Listing.dir\\tasks.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\1 - listing\\tasks.c\"",
+  "file": "D:/Visual Studio/Projects/labs/1 - listing/tasks.c",
+  "output": "CMakeFiles/Listing.dir/tasks.c.obj"
+}
+]

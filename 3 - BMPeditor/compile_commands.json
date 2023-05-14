@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Visual Studio/Projects/labs/3 - BMPeditor",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\BMPeditor.dir\\main.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\3 - BMPeditor\\main.c\"",
+  "file": "D:/Visual Studio/Projects/labs/3 - BMPeditor/main.c",
+  "output": "CMakeFiles/BMPeditor.dir/main.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/3 - BMPeditor",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\BMPeditor.dir\\get.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\3 - BMPeditor\\get.c\"",
+  "file": "D:/Visual Studio/Projects/labs/3 - BMPeditor/get.c",
+  "output": "CMakeFiles/BMPeditor.dir/get.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/3 - BMPeditor",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\BMPeditor.dir\\bmpReadWrite.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\3 - BMPeditor\\bmpReadWrite.c\"",
+  "file": "D:/Visual Studio/Projects/labs/3 - BMPeditor/bmpReadWrite.c",
+  "output": "CMakeFiles/BMPeditor.dir/bmpReadWrite.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/3 - BMPeditor",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\BMPeditor.dir\\bmpEdit.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\3 - BMPeditor\\bmpEdit.c\"",
+  "file": "D:/Visual Studio/Projects/labs/3 - BMPeditor/bmpEdit.c",
+  "output": "CMakeFiles/BMPeditor.dir/bmpEdit.c.obj"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Visual Studio/Projects/labs/5 - DNS searcher",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\DNSsearcher.dir\\main.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\5 - DNS searcher\\main.c\"",
+  "file": "D:/Visual Studio/Projects/labs/5 - DNS searcher/main.c",
+  "output": "CMakeFiles/DNSsearcher.dir/main.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/5 - DNS searcher",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\DNSsearcher.dir\\functions.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\5 - DNS searcher\\functions.c\"",
+  "file": "D:/Visual Studio/Projects/labs/5 - DNS searcher/functions.c",
+  "output": "CMakeFiles/DNSsearcher.dir/functions.c.obj"
+}
+]

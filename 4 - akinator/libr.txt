@@ -1,0 +1,41 @@
+[1] Is it a computer game?
+[2] Is this an online shooter game?
+[4] Is the gameplay far from reality?
+[8] Valorant
+[9] This game belongs to the Battle Royale genre?
+[18] PUBG
+[19] Does this game have the highest number of regular players per day?
+[38] CS:GO
+[39] Tom Clancy's Rainbox Six Siege
+[5] Is it RPG?
+[10] The action of the game unfolds in the fantasy universe of "Harry Potter"?
+[20] Hogwarts Legacy
+[21] Is the game related to the Souls series of games?
+[42] Elden Ring
+[43] The Withcer 3
+[11] Is this an indie game?
+[22] Twelve Minutes
+[23] Is it 2D game?
+[46] Terraria
+[47] Is it horror game?
+[94] This game is related to detecting ghosts?
+[188] Phasmophobia
+[189] This game is related to the Five Nights at Freddy's franchise?
+[378] Five Nights at Freddy's: Security Breach
+[379] The genre of this game is an interactive movie?
+[758] The Dark Pictures Anthology: The Devil in Me
+[759] Friday the 13th: The Game
+[95] Can you drive cars in this game?
+[190] Rocket League
+[191] Minecraft
+[3] Does this game require dice?
+[6] Is it RPG?
+[12] Is this game require cards?
+[24] Manchkin
+[25] Dungeons & Dragons
+[13] Monopoly
+[7] Does this game have a board or a field?
+[14] In this game all the figures are the same?
+[28] Checkers
+[29] Chess
+[15] Uno

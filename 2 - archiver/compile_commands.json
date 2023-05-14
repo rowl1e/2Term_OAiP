@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Visual Studio/Projects/labs/2 - archiver",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/compress.dir/includes_C.rsp  -o CMakeFiles\\compress.dir\\compress\\compress.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\2 - archiver\\compress\\compress.c\"",
+  "file": "D:/Visual Studio/Projects/labs/2 - archiver/compress/compress.c",
+  "output": "CMakeFiles/compress.dir/compress/compress.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/2 - archiver",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/compress.dir/includes_C.rsp  -o CMakeFiles\\compress.dir\\functions.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\2 - archiver\\functions.c\"",
+  "file": "D:/Visual Studio/Projects/labs/2 - archiver/functions.c",
+  "output": "CMakeFiles/compress.dir/functions.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/2 - archiver",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/decompress.dir/includes_C.rsp  -o CMakeFiles\\decompress.dir\\decompress\\decompress.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\2 - archiver\\decompress\\decompress.c\"",
+  "file": "D:/Visual Studio/Projects/labs/2 - archiver/decompress/decompress.c",
+  "output": "CMakeFiles/decompress.dir/decompress/decompress.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/2 - archiver",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/decompress.dir/includes_C.rsp  -o CMakeFiles\\decompress.dir\\functions.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\2 - archiver\\functions.c\"",
+  "file": "D:/Visual Studio/Projects/labs/2 - archiver/functions.c",
+  "output": "CMakeFiles/decompress.dir/functions.c.obj"
+}
+]

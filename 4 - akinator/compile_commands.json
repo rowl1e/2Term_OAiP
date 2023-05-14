@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Visual Studio/Projects/labs/4 - akinator",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Akinator.dir\\main.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\4 - akinator\\main.c\"",
+  "file": "D:/Visual Studio/Projects/labs/4 - akinator/main.c",
+  "output": "CMakeFiles/Akinator.dir/main.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/4 - akinator",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Akinator.dir\\funcs.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\4 - akinator\\funcs.c\"",
+  "file": "D:/Visual Studio/Projects/labs/4 - akinator/funcs.c",
+  "output": "CMakeFiles/Akinator.dir/funcs.c.obj"
+},
+{
+  "directory": "D:/Visual Studio/Projects/labs/4 - akinator",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Akinator.dir\\get.c.obj -c \"D:\\Visual Studio\\Projects\\labs\\4 - akinator\\get.c\"",
+  "file": "D:/Visual Studio/Projects/labs/4 - akinator/get.c",
+  "output": "CMakeFiles/Akinator.dir/get.c.obj"
+}
+]
